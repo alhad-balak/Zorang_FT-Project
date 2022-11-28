@@ -10,7 +10,7 @@
 <li>Once the loop ended, we’ll print the ‘agentdeliveries’.</li>
 </ol>
 
-The required comment is written in the python program.
+The required comments are written in the python program.
 
 <hr>
 <h3>Problem Statement of development Project.</h3>
