@@ -1,5 +1,5 @@
 # Zorang FT Project
-<h3>Approach to the to find the optimal routes for delivery agents to deliver parcels from a store to consumers.</h3>
+<h3>Approach to find the optimal routes for delivery agents to deliver parcels from a store to consumers.</h3>
 <ol>
 <li>I have retrieved data from the URL in variable ‘res’ and stored the store location in variables ‘storex’, ‘storey’.</li>
 <li>Latitude, Longitude, and id of delivery location have been stored in an array, namely ‘order.’</li>
